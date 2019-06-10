@@ -14,4 +14,4 @@ name = "xml"
 path = "src/lib.rs"
 
 [dependencies]
-bitflags = "*"
+bitflags = "0.9"
