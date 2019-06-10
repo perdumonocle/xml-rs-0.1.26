@@ -1,3 +1,4 @@
+#![allow(deprecated)]
 //! Contains `XmlEvent` datatype, instances of which are emitted by the parser.
 
 use std::fmt;

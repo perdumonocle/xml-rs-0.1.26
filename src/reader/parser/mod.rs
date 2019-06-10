@@ -1,3 +1,4 @@
+#![allow(deprecated, private_in_public)]
 //! Contains an implementation of pull-based XML parser.
 
 use std::mem;

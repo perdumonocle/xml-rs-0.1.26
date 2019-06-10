@@ -1,3 +1,4 @@
+#![allow(deprecated, private_in_public)]
 use common::{
     is_name_start_char, is_name_char,
 };

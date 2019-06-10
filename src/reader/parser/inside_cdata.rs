@@ -1,3 +1,4 @@
+#![allow(private_in_public)]
 use reader::events::XmlEvent;
 use reader::lexer::Token;
 

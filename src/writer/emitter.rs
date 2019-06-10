@@ -1,3 +1,4 @@
+#![allow(unused_parens, deprecated)]
 use std::io;
 use std::io::prelude::*;
 use std::fmt;

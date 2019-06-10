@@ -1,3 +1,4 @@
+#![allow(deprecated, private_in_public)]
 use common::is_whitespace_char;
 
 use reader::events::XmlEvent;

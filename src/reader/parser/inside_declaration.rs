@@ -1,3 +1,4 @@
+#![allow(private_in_public)]
 
 use common::XmlVersion;
 

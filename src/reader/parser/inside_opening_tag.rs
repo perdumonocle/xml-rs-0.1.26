@@ -1,3 +1,4 @@
+#![allow(private_in_public)]
 use common::is_name_start_char;
 use attribute::OwnedAttribute;
 use namespace;

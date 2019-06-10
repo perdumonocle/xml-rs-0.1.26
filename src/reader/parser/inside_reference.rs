@@ -1,3 +1,4 @@
+#![allow(private_in_public)]
 use std::char;
 
 use common::{is_name_start_char, is_name_char};

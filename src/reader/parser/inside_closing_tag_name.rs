@@ -1,3 +1,4 @@
+#![allow(private_in_public)]
 use namespace;
 
 use reader::events::XmlEvent;
